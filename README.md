@@ -24,7 +24,9 @@ The **Virtual-Doctor** is an advanced healthcare solution that combines AI, 3D a
   - **ElevenLabs API** converts text responses into realistic human speech, enhancing user engagement.
 
 - **Medical Diagnostics**:
-  - A **TensorFlow-based machine learning model** processes MRI scans to detect and classify brain tumors, offering accurate and efficient diagnostics.
+   - **TensorFlow Models** analyze medical data to classify:
+     - Brain tumors using MRI scans.
+     - Alzheimer's conditions using MRI scans.
 
 ---
 
